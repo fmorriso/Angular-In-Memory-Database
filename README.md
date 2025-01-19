@@ -1,4 +1,28 @@
-# InMemoryDatabase
+# Angular In-Memory Database
+
+An example of an in-memory database in Angular
+
+## Tools Used
+
+| Tool                      |  Version |
+|:--------------------------|---------:|
+| @Angular/CLI              |   19.1.2 |
+| Angular                   |   19.1.1 |
+| Angular-in-memory-web-api |   0.19.0 |
+| RxJS                      |      6.6 |
+| Bootstrap                 |    5.1.0 |
+| node                      |  22.12.0 |
+| npm                       |   11.0.0 |
+| WebStorm                  | 2024.3.2 |
+| VSCode                    |   1.96.4 |
+
+
+
+# References
+[Creating an In-Memory Database in Angular: A Step-by-Step Guide](https://medium.com/%40darrenvictoria/creating-an-in-memory-database-in-angular-a-step-by-step-guide-a2aa26cabc29)
+
+
+## Angular/CLI Notes
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.1.2.
 
