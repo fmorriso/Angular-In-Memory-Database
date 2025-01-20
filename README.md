@@ -21,6 +21,12 @@ An example of an in-memory database in Angular
 # References
 [Creating an In-Memory Database in Angular: A Step-by-Step Guide](https://medium.com/%40darrenvictoria/creating-an-in-memory-database-in-angular-a-step-by-step-guide-a2aa26cabc29)
 
+# Change Log
+
+| Date       | Description                                           |
+|:-----------|:------------------------------------------------------|
+| 2025-01-19 | Initial creation                                      |
+
 
 ## Angular/CLI Notes
 
